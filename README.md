@@ -1,0 +1,2 @@
+# hashEditor
+OK, all right. 
